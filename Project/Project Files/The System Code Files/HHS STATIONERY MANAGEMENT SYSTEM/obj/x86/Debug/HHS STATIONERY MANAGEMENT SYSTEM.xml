@@ -1,0 +1,236 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HHSSTATIONERYMANAGEMENTSYSTEM
+</name>
+</assembly>
+<members>
+<member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1.LoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1.LoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1.LoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1TableAdapters.LoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1TableAdapters.TableAdapterManager.UpdateAll(HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.LoginDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSet.LoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSet.NewStationeryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSet.LoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSet.NewStationeryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSet.LoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSet.NewStationeryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSetTableAdapters.LoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSetTableAdapters.NewStationeryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSetTableAdapters.TableAdapterManager.UpdateAll(HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.New_StationeryDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources._29433279_1828474300516213_26133772189564928_n">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources._exit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.about__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.Backgroundnewstock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.Down">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.gi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.Green_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.Green2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.Green3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.help__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.help__2_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.log">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.Login_background_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.main">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.main_menu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.new_stock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.newstck">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.newstck1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.OIP23GZ8DH3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.OIPFGDO128G">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.R">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.Stationery">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources.web_in_pic34">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:HHS_STATIONERY_MANAGEMENT_SYSTEM.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
