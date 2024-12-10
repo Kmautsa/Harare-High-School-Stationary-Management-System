@@ -10,7 +10,7 @@ Partial Class Help
                 components.Dispose()
             End If
         Finally
-            MyBase.Dispose(disposing)
+            MyBase.Dispose(disposing) 
         End Try
     End Sub
 
