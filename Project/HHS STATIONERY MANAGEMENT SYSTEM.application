@@ -7,7 +7,7 @@
     <framework targetVersion="4.0" profile="Client" supportedRuntime="4.0.30319" />
     <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />  
   </compatibleFrameworks>
-  <dependency>
+  <dependency> 
     <dependentAssembly dependencyType="install" codebase="Application Files\HHS STATIONERY MANAGEMENT SYSTEM_1_0_0_2\HHS STATIONERY MANAGEMENT SYSTEM.exe.manifest" size="8537">
       <assemblyIdentity name="HHS STATIONERY MANAGEMENT SYSTEM.exe" version="1.0.0.2" publicKeyToken="7203f93353460a55" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
